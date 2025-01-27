@@ -1,6 +1,6 @@
-#O repositório painel_producao é uma solução abrangente para monitoramento e análise de dados operacionais, desenvolvida para otimizar processos e fornecer insights valiosos para a tomada de decisões.
+# O projeto que desenvolvi é uma solução abrangente para monitoramento e análise de dados operacionais, desenvolvida para otimizar processos e fornecer insights valiosos para a tomada de decisões.
 
-#Principais Funcionalidades:
+# Principais Funcionalidades:
 
 Análise de Acionamentos: Scripts como Acompanhamento_acessos.py e Painel_acionamentos.py processam e analisam dados de acionamentos registrados em arquivos como Acionamentos.xlsx, permitindo uma compreensão detalhada das operações.
 
@@ -10,9 +10,9 @@ Gestão de Ocorrências e Operadores: Arquivos como Ocorrencias.xlsx e Operadore
 
 Estratégias Operacionais: O script Estrategias_dia.py e o arquivo estrategias.xls fornecem ferramentas para o desenvolvimento e acompanhamento de estratégias diárias, visando a melhoria contínua dos processos.
 
-Banco de Dados Integrado: A presença do arquivo dados.db indica a utilização de um banco de dados para armazenamento estruturado das informações, garantindo eficiência no acesso e manipulação dos dados.
+Banco de Dados Integrado: O arquivo dados.db é um banco de dados para armazenamento estruturado das informações, garantindo eficiência no acesso e manipulação dos dados.
 
-#Destaques Técnicos:
+# Destaques Técnicos:
 
 Processamento de Dados: Implementação de scripts em Python para tratamento e análise de grandes volumes de dados, garantindo eficiência e precisão nos resultados.
 
